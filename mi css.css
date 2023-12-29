@@ -1,0 +1,47 @@
+
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(219,78,78,1) 66%, rgba(252,176,69,1) 100%);
+margin: 0;
+}
+
+/* imagen de cabecera */
+.cabecera{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+
+}
+/* style del titulo de la pagina h1 */
+.titulo{
+
+    font-family: cursive;
+    
+    font-variant-position: super;
+
+}
+.queresAprender{
+    font-size: larger;
+    position: relative;
+
+}
+.navegar{
+    text-decoration: solid;
+    text-align: right;
+    background-color: rgb(209, 201, 192);
+    margin: 0;
+    padding: 10px;
+    border: 0;
+    font-family:cursive;
+    font-size:large;
+}
+/* imagenes con enlaces a los html */
+.impresora3droja{
+    height: 200px;
+    width: 400px;
+}
+
+.presentacion{
+    text-align: justify;
+}
